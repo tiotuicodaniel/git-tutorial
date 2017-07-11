@@ -1,1 +1,4 @@
 console.writeline("hello world!");
+
+console.write("");
+console.writeline("i love my wife");
