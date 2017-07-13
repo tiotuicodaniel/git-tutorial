@@ -1,8 +1,5 @@
 hello this is daniel tiotuico.
-<<<<<<< HEAD
 krisha romero added a code.
 i updated this code file.
-=======
-i updated this code file.
 daniel line of code at last line.
->>>>>>> 5bfa1c11bf2704fe88b1e24e0261cb1ced55587a
+
