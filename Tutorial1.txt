@@ -1,4 +1,5 @@
 hello this is daniel tiotuico.
+console.log("remove accesory");
 krisha romero added a code.
 i updated this code file.
 daniel line of code at last line.
